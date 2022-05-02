@@ -3,6 +3,6 @@ Bluetooth adaptor for your GameCube. An external adaptor that will allow you to 
 
 This project will be towards the development of a Bluetooth receiver for the NGC port of the GameCube / Wii. Allowing bluetooth controller such as the Nintendo Switch Bluetooth GameCube controller to be compatible with the GameCube and Wii console.
 
-A lot of the code regarding the communication protocol of the GameCube controler has been reverse engineered and is available to mod a standard wired GameCube controller and turn it into a bluetooth one [1]. However, this mod only work for bluetooth compatible devices, rendering the new moded controller incompatible with the Nintendo GameCube / Wii.
+The code regarding the communication protocol of the GameCube controler has been reverse engineered and is available online. The existing code turns a standard wired GameCube controller into a bluetooth one. However, this mod only works for bluetooth compatible devices, rendering the new moded controller incompatible with the GameCube / Wii consoles. [1]
 
 [1] https://github.com/NathanReeves/BlueCubeMod
