@@ -1,5 +1,5 @@
 # GameCube-BLE-adaptor
-The Bluetooth adaptor you've always dreamed for your GameCube. An external adaptor that will allow you to connect a bluetooth controller to the NGC socket of your GameCube, (or Wii), and enjoy the freedom of wireless. 
+The Bluetooth adaptor you've always dreamed for your GameCube. An external adaptor that will allow you to connect a bluetooth controller to the NGC socket of your GameCube (or Wii), and enjoy the freedom of wireless. 
 
 The code regarding the communication protocol of the GameCube controler has been reverse engineered and is available online. The existing code was developed to convert a standard wired GameCube controller into a bluetooth one. However, this mod only works for bluetooth compatible devices, rendering the new moded controller incompatible with the GameCube and Wii consoles. [1]
 
