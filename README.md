@@ -15,6 +15,11 @@ Each strings of data is terminated with a single 'High' at the stop bit
 ref: [2]  
   
 This communication protocole is already available as an Arduino library [3].  
+
+* NOTE *  
+While looking into the available library on the Arduino library manager, the library N64PadForArduino showed.  
+This library provide much more details regarding the use of the library compare to the 'nintendo' library from NicoHood.
+As a downside, this library does not provide support for the rubble. However, since the goal of this project is to emulate a NGC controller using a Arduino-like mcu, and to use a bluetooth controller to communicate with this mcu, the objective is thus to inverse the communication protocole provided by these library.
   
 # Abbreviations  
 NGC : Nintendo GameCube  
@@ -25,4 +30,11 @@ NGC : Nintendo GameCube
 [3] https://www.arduino.cc/reference/en/libraries/nintendo/
 [4] https://github.com/NathanReeves/BlueCubeMod  
 [5] https://www.amazon.ca/PowerA-Wireless-Controller-Nintendo-Switch/dp/B07GXLBCC3  
+[6] https://github.com/SukkoPera/N64PadForArduino
+
+
+* Todo *
+Reorder the references across the whole text.
+
+
   
